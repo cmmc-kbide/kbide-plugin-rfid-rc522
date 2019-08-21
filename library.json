@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-rfid-rc522",
+  "title": "rfid-rc522",
+  "keywords": "rfid-rc522, esp32, esp8266, arduino",
+  "description": "Plugin rfid-rc522 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rfid-rc522/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rfid-rc522/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
